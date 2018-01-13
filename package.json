@@ -1,0 +1,33 @@
+{
+  "name": "grunt-hw",
+  "version": "1.0.0",
+  "description": "\"grunt hw build video/audio app\"",
+  "main": "https://github.com/f-tozzini/grunt-homework.git",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/f-tozzini/grunt-homework.git"
+  },
+  "keywords": [
+    "grunt",
+    "hw",
+    "automation",
+    "homework",
+    "test"
+  ],
+  "author": "Flavia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/f-tozzini/grunt-homework/issues"
+  },
+  "homepage": "https://github.com/f-tozzini/grunt-homework#readme",
+  "dependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-uglify": "^3.3.0",
+    "grunt-contrib-watch": "^1.0.0"
+  }
+}
